@@ -7,6 +7,7 @@ export default function _layout() {
   return (
     <SafeAreaView>
       <Text>Auth Layout</Text>
+      {/* com.debasish.foodordering */}
       <Slot />
     </SafeAreaView>
   );
